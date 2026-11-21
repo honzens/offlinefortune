@@ -1,0 +1,85 @@
+{
+  "deities": [
+    {
+      "id": 1,
+      "name": "示範神明",
+      "description": "此為專案測試資料，請替換成經核對的正式神明資料。"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "code": "general",
+      "name": "整體運勢"
+    },
+    {
+      "id": 2,
+      "code": "career",
+      "name": "事業"
+    },
+    {
+      "id": 3,
+      "code": "wealth",
+      "name": "財運"
+    },
+    {
+      "id": 4,
+      "code": "love",
+      "name": "感情"
+    }
+  ],
+  "systems": [
+    {
+      "id": 1,
+      "deity_id": 1,
+      "name": "籤詩示範資料",
+      "total_lots": 2,
+      "version_id": 1,
+      "version_name": "開發測試版本",
+      "source_note": "以下文字為測試用示意內容，不是任何廟宇的正式籤詩。",
+      "poems": [
+        {
+          "id": 1,
+          "lot_no": 1,
+          "rank": "示範",
+          "poem_text": "第一句：請填入正式籤詩原文\n第二句：請填入正式籤詩原文\n第三句：請填入正式籤詩原文\n第四句：請填入正式籤詩原文",
+          "interpretations": [
+            {
+              "id": 1,
+              "category_id": 1,
+              "content": "此處填入經核對的整體運勢解釋。"
+            },
+            {
+              "id": 2,
+              "category_id": 2,
+              "content": "此處填入經核對的事業解釋。"
+            },
+            {
+              "id": 3,
+              "category_id": 3,
+              "content": "此處填入經核對的財運解釋。"
+            },
+            {
+              "id": 4,
+              "category_id": 4,
+              "content": "此處填入經核對的感情解釋。"
+            }
+          ],
+          "story": {
+            "id": 1,
+            "title": "典故標題（待填）",
+            "content": "此處填入經查證的典故內容。"
+          }
+        },
+        {
+          "id": 2,
+          "lot_no": 2,
+          "rank": "示範",
+          "poem_text": "第一句：請填入正式籤詩原文\n第二句：請填入正式籤詩原文\n第三句：請填入正式籤詩原文\n第四句：請填入正式籤詩原文",
+          "interpretations": [],
+          "story": null
+        }
+      ]
+    }
+  ]
+}
