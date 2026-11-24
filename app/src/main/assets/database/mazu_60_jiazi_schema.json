@@ -1,0 +1,2084 @@
+{
+  "deities": [
+    {
+      "id": 3,
+      "name": "天上聖母（媽祖）",
+      "description": "海上守護神與民間重要信仰神明，媽祖六十甲子籤以干支紀序，結合歷史典故與生活智慧，指引前程與行事方向。"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "code": "general",
+      "name": "整體運勢"
+    },
+    {
+      "id": 2,
+      "code": "career",
+      "name": "事業"
+    },
+    {
+      "id": 3,
+      "code": "wealth",
+      "name": "財運"
+    },
+    {
+      "id": 4,
+      "code": "love",
+      "name": "感情"
+    }
+  ],
+  "systems": [
+    {
+      "id": 1,
+      "deity_id": 3,
+      "name": "媽祖六十甲子籤",
+      "total_lots": 60,
+      "version_id": 1,
+      "version_name": "傳統通行版 v1.0",
+      "source_note": "收錄媽祖六十甲子籤第 1 至 60 籤之籤號、干支、吉凶等級、四句籤詩原文、歷史典故及四大分類解籤。",
+      "poems": [
+        {
+          "id": 1,
+          "lot_no": 1,
+          "ganzhi": "甲子",
+          "rank": "大吉",
+          "poem_text": "日出便見風雲散\n光明清淨照世間\n一向前途通大道\n萬事清吉保平安",
+          "interpretations": [
+            {
+              "id": 1,
+              "category_id": 1,
+              "content": "陰霾盡散、光明前途之象，凡事順遂無礙。"
+            },
+            {
+              "id": 2,
+              "category_id": 2,
+              "content": "功名顯達，仕途順遂，考運極佳。"
+            },
+            {
+              "id": 3,
+              "category_id": 3,
+              "content": "財源廣進，求財可得，投資獲利。"
+            },
+            {
+              "id": 4,
+              "category_id": 4,
+              "content": "天作之合，姻緣美滿，婚姻可成。"
+            }
+          ],
+          "story": {
+            "id": 1,
+            "title": "包公請雷驚仁宗",
+            "content": ""
+          }
+        },
+        {
+          "id": 2,
+          "lot_no": 2,
+          "ganzhi": "甲寅",
+          "rank": "大吉",
+          "poem_text": "於今此景正當時\n看看欲吐百花魁\n若能遇得春色到\n一灑清吉脫塵埃",
+          "interpretations": [
+            {
+              "id": 5,
+              "category_id": 1,
+              "content": "時運正盛、萬象更新，如百花將開，漸入佳境。"
+            },
+            {
+              "id": 6,
+              "category_id": 2,
+              "content": "時機已到，升遷有望，學業進步。"
+            },
+            {
+              "id": 7,
+              "category_id": 3,
+              "content": "正財順遂，把握良機可得豐收。"
+            },
+            {
+              "id": 8,
+              "category_id": 4,
+              "content": "春風得意，良緣將至，感情升溫。"
+            }
+          ],
+          "story": {
+            "id": 2,
+            "title": "趙子龍救阿斗",
+            "content": ""
+          }
+        },
+        {
+          "id": 3,
+          "lot_no": 3,
+          "ganzhi": "甲辰",
+          "rank": "上吉",
+          "poem_text": "勸君把定心莫虛\n天註衣祿自有餘\n和合重重常吉慶\n時來終遇得明珠",
+          "interpretations": [
+            {
+              "id": 9,
+              "category_id": 1,
+              "content": "心志堅定勿疑慮，命裡福祿充足，終得良機。"
+            },
+            {
+              "id": 10,
+              "category_id": 2,
+              "content": "穩紮穩打，終獲賞識與成就。"
+            },
+            {
+              "id": 11,
+              "category_id": 3,
+              "content": "財祿自有，不宜投機，守成即富。"
+            },
+            {
+              "id": 12,
+              "category_id": 4,
+              "content": "姻緣天定，和合吉祥，終成眷屬。"
+            }
+          ],
+          "story": {
+            "id": 3,
+            "title": "崔文德胡鳳嬌成婚",
+            "content": ""
+          }
+        },
+        {
+          "id": 4,
+          "lot_no": 4,
+          "ganzhi": "甲午",
+          "rank": "上吉",
+          "poem_text": "風恬浪靜可行舟\n恰是中秋月一輪\n凡事不須多憂慮\n福祿自有慶家門",
+          "interpretations": [
+            {
+              "id": 13,
+              "category_id": 1,
+              "content": "風平浪靜、月圓人團圓之象，無須憂慮，自然安康。"
+            },
+            {
+              "id": 14,
+              "category_id": 2,
+              "content": "平步青雲，無風無浪，順理成章。"
+            },
+            {
+              "id": 15,
+              "category_id": 3,
+              "content": "財運平穩豐足，家業興旺。"
+            },
+            {
+              "id": 16,
+              "category_id": 4,
+              "content": "花好月圓，感情圓滿，適合論及婚嫁。"
+            }
+          ],
+          "story": {
+            "id": 4,
+            "title": "盧龍王次女招親",
+            "content": ""
+          }
+        },
+        {
+          "id": 5,
+          "lot_no": 5,
+          "ganzhi": "甲申",
+          "rank": "中平",
+          "poem_text": "只恐前途命有變\n勸君作急可宜先\n且守長江無大事\n命逢太白守身邊",
+          "interpretations": [
+            {
+              "id": 17,
+              "category_id": 1,
+              "content": "前途恐有變數，宜及早防範並守成，自有貴人護佑。"
+            },
+            {
+              "id": 18,
+              "category_id": 2,
+              "content": "暫宜守舊，勿輕易變動跑道。"
+            },
+            {
+              "id": 19,
+              "category_id": 3,
+              "content": "守成為上，防範突發破財風險。"
+            },
+            {
+              "id": 20,
+              "category_id": 4,
+              "content": "感情恐生波折，宜多溝通包容。"
+            }
+          ],
+          "story": {
+            "id": 5,
+            "title": "王剪戰袁達",
+            "content": ""
+          }
+        },
+        {
+          "id": 6,
+          "lot_no": 6,
+          "ganzhi": "甲戌",
+          "rank": "下下",
+          "poem_text": "風雲致雨落洋洋\n天災時氣必有傷\n命內此事難和合\n更逢一足出外鄉",
+          "interpretations": [
+            {
+              "id": 21,
+              "category_id": 1,
+              "content": "風雨交加、時運不濟之象，諸事難合，宜退守避災。"
+            },
+            {
+              "id": 22,
+              "category_id": 2,
+              "content": "阻礙重重，恐有異動或挫折。"
+            },
+            {
+              "id": 23,
+              "category_id": 3,
+              "content": "財運不佳，謹防虧損，切忌擴張。"
+            },
+            {
+              "id": 24,
+              "category_id": 4,
+              "content": "緣分難合，易生離別或口角。"
+            }
+          ],
+          "story": {
+            "id": 6,
+            "title": "鳥精亂宋朝",
+            "content": ""
+          }
+        },
+        {
+          "id": 7,
+          "lot_no": 7,
+          "ganzhi": "乙丑",
+          "rank": "大吉",
+          "poem_text": "雲開月出正分明\n不須進退問前程\n婚姻皆由天註定\n和合清吉萬事成",
+          "interpretations": [
+            {
+              "id": 25,
+              "category_id": 1,
+              "content": "雲開見月、前景明朗，無須猶豫，諸事皆可順成。"
+            },
+            {
+              "id": 26,
+              "category_id": 2,
+              "content": "方向明確，全力以赴必有斬獲。"
+            },
+            {
+              "id": 27,
+              "category_id": 3,
+              "content": "財路清晰，獲利可期，順勢而為。"
+            },
+            {
+              "id": 28,
+              "category_id": 4,
+              "content": "天註良緣，無須遲疑，和合大吉。"
+            }
+          ],
+          "story": {
+            "id": 7,
+            "title": "國公暗察白袍將",
+            "content": ""
+          }
+        },
+        {
+          "id": 8,
+          "lot_no": 8,
+          "ganzhi": "乙卯",
+          "rank": "上吉",
+          "poem_text": "禾稻看看結成完\n此事必定兩相全\n回到家中寬心坐\n妻兒鼓舞樂團圓",
+          "interpretations": [
+            {
+              "id": 29,
+              "category_id": 1,
+              "content": "耕耘有成、收穫在望，兩全其美，闔家安樂。"
+            },
+            {
+              "id": 30,
+              "category_id": 2,
+              "content": "努力終見成果，名利雙收。"
+            },
+            {
+              "id": 31,
+              "category_id": 3,
+              "content": "投資回收，財利豐厚，滿載而歸。"
+            },
+            {
+              "id": 32,
+              "category_id": 4,
+              "content": "家庭和睦，感情圓滿，團圓之喜。"
+            }
+          ],
+          "story": {
+            "id": 8,
+            "title": "薛仁貴回家",
+            "content": ""
+          }
+        },
+        {
+          "id": 9,
+          "lot_no": 9,
+          "ganzhi": "乙巳",
+          "rank": "中下",
+          "poem_text": "龍虎相隨在深山\n君爾何須背後看\n不知此去相愛愉\n他日與我卻無干",
+          "interpretations": [
+            {
+              "id": 33,
+              "category_id": 1,
+              "content": "表面相隨實則各懷心思，宜看清局勢，勿盲目投入。"
+            },
+            {
+              "id": 34,
+              "category_id": 2,
+              "content": "合作需謹慎，防表面和氣暗藏分歧。"
+            },
+            {
+              "id": 35,
+              "category_id": 3,
+              "content": "合夥求財恐有變數，宜獨立自主。"
+            },
+            {
+              "id": 36,
+              "category_id": 4,
+              "content": "看似投緣實難長久，需審慎評估。"
+            }
+          ],
+          "story": {
+            "id": 9,
+            "title": "龍虎交會",
+            "content": ""
+          }
+        },
+        {
+          "id": 10,
+          "lot_no": 10,
+          "ganzhi": "乙未",
+          "rank": "下下",
+          "poem_text": "花開結子一半枯\n可惜今年汝虛度\n漸漸日落西山去\n勸君不用向前途",
+          "interpretations": [
+            {
+              "id": 37,
+              "category_id": 1,
+              "content": "花開半枯、事倍功半之象，今年運勢走下坡，宜休養生息。"
+            },
+            {
+              "id": 38,
+              "category_id": 2,
+              "content": "難有突破，宜充實自我等待來年。"
+            },
+            {
+              "id": 39,
+              "category_id": 3,
+              "content": "財運衰退，嚴防損耗，宜縮減開支。"
+            },
+            {
+              "id": 40,
+              "category_id": 4,
+              "content": "感情轉淡，難有結果，不宜強求。"
+            }
+          ],
+          "story": {
+            "id": 10,
+            "title": "岳飛掠秦檜",
+            "content": ""
+          }
+        },
+        {
+          "id": 11,
+          "lot_no": 11,
+          "ganzhi": "乙酉",
+          "rank": "中吉",
+          "poem_text": "靈雞漸漸見分明\n凡事且看子丑寅\n雲開月出照天下\n郎君即便見太平",
+          "interpretations": [
+            {
+              "id": 41,
+              "category_id": 1,
+              "content": "黎明將至、漸見曙光，待時機一到（子丑寅時日）即轉太平。"
+            },
+            {
+              "id": 42,
+              "category_id": 2,
+              "content": "先難後易，熬過低潮即見轉機。"
+            },
+            {
+              "id": 43,
+              "category_id": 3,
+              "content": "初期平淡，後期漸入佳境。"
+            },
+            {
+              "id": 44,
+              "category_id": 4,
+              "content": "波折漸平，真情終現，終成眷屬。"
+            }
+          ],
+          "story": {
+            "id": 11,
+            "title": "韓文公過秦嶺湘子掃霜雪",
+            "content": ""
+          }
+        },
+        {
+          "id": 12,
+          "lot_no": 12,
+          "ganzhi": "乙亥",
+          "rank": "上吉",
+          "poem_text": "長江風浪漸漸靜\n于今得進可安寧\n必有貴人相扶助\n凶事脫出見太平",
+          "interpretations": [
+            {
+              "id": 45,
+              "category_id": 1,
+              "content": "風浪平息、轉危為安，且有貴人相助，可放心前行。"
+            },
+            {
+              "id": 46,
+              "category_id": 2,
+              "content": "貴人提攜，困難迎刃而解。"
+            },
+            {
+              "id": 47,
+              "category_id": 3,
+              "content": "危機解除，財運回穩並逐步獲利。"
+            },
+            {
+              "id": 48,
+              "category_id": 4,
+              "content": "誤會冰釋，貴人牽線，感情穩定。"
+            }
+          ],
+          "story": {
+            "id": 12,
+            "title": "智遠戰瓜精",
+            "content": ""
+          }
+        },
+        {
+          "id": 13,
+          "lot_no": 13,
+          "ganzhi": "丙子",
+          "rank": "下下",
+          "poem_text": "命中正逢羅孛關\n用盡心機總未休\n作福問神難得過\n恰是行舟上高灘",
+          "interpretations": [
+            {
+              "id": 49,
+              "category_id": 1,
+              "content": "正逢關卡阻礙、如逆水行舟，費盡心力仍難突破，宜靜守修德。"
+            },
+            {
+              "id": 50,
+              "category_id": 2,
+              "content": "阻滯難行，強求無益，宜暫緩計畫。"
+            },
+            {
+              "id": 51,
+              "category_id": 3,
+              "content": "財運受阻，嚴防套牢，切勿冒進。"
+            },
+            {
+              "id": 52,
+              "category_id": 4,
+              "content": "阻力重重，暫難進展，宜冷靜觀察。"
+            }
+          ],
+          "story": {
+            "id": 13,
+            "title": "撐渡伯行舟遇太歲",
+            "content": ""
+          }
+        },
+        {
+          "id": 14,
+          "lot_no": 14,
+          "ganzhi": "丙寅",
+          "rank": "中吉",
+          "poem_text": "財中漸漸見分明\n花開花謝結子成\n寬心且看月中桂\n郎君即便見太平",
+          "interpretations": [
+            {
+              "id": 53,
+              "category_id": 1,
+              "content": "歷經起伏後終見成果，放寬心懷，秋月之時可見太平。"
+            },
+            {
+              "id": 54,
+              "category_id": 2,
+              "content": "先苦後甘，中秋前後漸見成效。"
+            },
+            {
+              "id": 55,
+              "category_id": 3,
+              "content": "財利漸明，穩健經營終有所得。"
+            },
+            {
+              "id": 56,
+              "category_id": 4,
+              "content": "歷經考驗後修成正果，宜耐心等待。"
+            }
+          ],
+          "story": {
+            "id": 14,
+            "title": "桃園三結義",
+            "content": ""
+          }
+        },
+        {
+          "id": 15,
+          "lot_no": 15,
+          "ganzhi": "丙辰",
+          "rank": "中平",
+          "poem_text": "八十原來是太公\n看看晚景遇文王\n目下緊事休相問\n勸君且守待運通",
+          "interpretations": [
+            {
+              "id": 57,
+              "category_id": 1,
+              "content": "大器晚成之象，目前時機未到，宜沉潛等待伯樂與轉運。"
+            },
+            {
+              "id": 58,
+              "category_id": 2,
+              "content": "暫無大起色，宜累積實力待時而動。"
+            },
+            {
+              "id": 59,
+              "category_id": 3,
+              "content": "眼下財運平平，不可急躁求財。"
+            },
+            {
+              "id": 60,
+              "category_id": 4,
+              "content": "姻緣未至，切莫心急，順其自然。"
+            }
+          ],
+          "story": {
+            "id": 15,
+            "title": "渭水河太公釣魚",
+            "content": ""
+          }
+        },
+        {
+          "id": 16,
+          "lot_no": 16,
+          "ganzhi": "丙午",
+          "rank": "下下",
+          "poem_text": "不須作福不須求\n用盡心機總未休\n陽世不知陰世事\n官法如爐不自由",
+          "interpretations": [
+            {
+              "id": 61,
+              "category_id": 1,
+              "content": "因果定數難違，費盡心機亦難挽回，宜反省自身、謹言慎行。"
+            },
+            {
+              "id": 62,
+              "category_id": 2,
+              "content": "恐有官非或制度束縛，宜安分守己。"
+            },
+            {
+              "id": 63,
+              "category_id": 3,
+              "content": "求財無門，謹防糾紛與損失。"
+            },
+            {
+              "id": 64,
+              "category_id": 4,
+              "content": "緣分已盡或阻力極大，難以自主。"
+            }
+          ],
+          "story": {
+            "id": 16,
+            "title": "李世民遊地府",
+            "content": ""
+          }
+        },
+        {
+          "id": 17,
+          "lot_no": 17,
+          "ganzhi": "丙申",
+          "rank": "中平",
+          "poem_text": "舊恨重重未改為\n家中禍患不臨身\n須當謹防宜作福\n龍蛇交會得和合",
+          "interpretations": [
+            {
+              "id": 65,
+              "category_id": 1,
+              "content": "雖有舊怨未消，但大禍不臨身，謹慎修福，逢辰巳時日可望和解。"
+            },
+            {
+              "id": 66,
+              "category_id": 2,
+              "content": "防範舊患復發，低調行事為宜。"
+            },
+            {
+              "id": 67,
+              "category_id": 3,
+              "content": "平穩無大礙，防微杜漸即可。"
+            },
+            {
+              "id": 68,
+              "category_id": 4,
+              "content": "舊情或心結有望化解，漸趨和合。"
+            }
+          ],
+          "story": {
+            "id": 17,
+            "title": "李三娘井邊會",
+            "content": ""
+          }
+        },
+        {
+          "id": 18,
+          "lot_no": 18,
+          "ganzhi": "丙戌",
+          "rank": "上吉",
+          "poem_text": "君問中間此言因\n看看祿馬拱前程\n若得貴人多得利\n和合自有兩分明",
+          "interpretations": [
+            {
+              "id": 69,
+              "category_id": 1,
+              "content": "福祿雙全、前程似錦，得貴人相助則名利雙收、諸事和合。"
+            },
+            {
+              "id": 70,
+              "category_id": 2,
+              "content": "仕途順暢，貴人提拔，升遷有望。"
+            },
+            {
+              "id": 71,
+              "category_id": 3,
+              "content": "財運亨通，得貴人引薦獲利豐厚。"
+            },
+            {
+              "id": 72,
+              "category_id": 4,
+              "content": "兩情相悅，貴人促成，婚姻美滿。"
+            }
+          ],
+          "story": {
+            "id": 18,
+            "title": "楊管醉玉仝坐馬",
+            "content": ""
+          }
+        },
+        {
+          "id": 19,
+          "lot_no": 19,
+          "ganzhi": "丁丑",
+          "rank": "中平",
+          "poem_text": "富貴由命天註定\n心高必然誤君期\n不然且回依舊路\n雲開月出自分明",
+          "interpretations": [
+            {
+              "id": 73,
+              "category_id": 1,
+              "content": "命中有定數，切忌好高騖遠，回歸務實本業反見光明。"
+            },
+            {
+              "id": 74,
+              "category_id": 2,
+              "content": "腳踏實地，勿貪求不切實際之位。"
+            },
+            {
+              "id": 75,
+              "category_id": 3,
+              "content": "正財穩當，貪高必失，守舊為安。"
+            },
+            {
+              "id": 76,
+              "category_id": 4,
+              "content": "擇偶宜務實，勿眼高手低，自有良緣。"
+            }
+          ],
+          "story": {
+            "id": 19,
+            "title": "范丹洗浴遇賢妻",
+            "content": ""
+          }
+        },
+        {
+          "id": 20,
+          "lot_no": 20,
+          "ganzhi": "丁卯",
+          "rank": "下下",
+          "poem_text": "前途功名未得意\n只恐命內有交加\n兩家必定防損失\n勸君且退莫咨嗟",
+          "interpretations": [
+            {
+              "id": 77,
+              "category_id": 1,
+              "content": "時運未通且恐生衝突損失，宜及早退讓以保平安，無須嘆息。"
+            },
+            {
+              "id": 78,
+              "category_id": 2,
+              "content": "功名難成，防範職場衝突，宜退守。"
+            },
+            {
+              "id": 79,
+              "category_id": 3,
+              "content": "合作易生爭端與破財，宜及早抽身。"
+            },
+            {
+              "id": 80,
+              "category_id": 4,
+              "content": "雙方摩擦多，易兩敗俱傷，宜冷靜退一步。"
+            }
+          ],
+          "story": {
+            "id": 20,
+            "title": "孫悟空大鬧天宮",
+            "content": ""
+          }
+        },
+        {
+          "id": 21,
+          "lot_no": 21,
+          "ganzhi": "丁巳",
+          "rank": "中吉",
+          "poem_text": "十口心思身休猜\n此去切莫向人言\n直待雲開見月出\n自有貴人相扶助",
+          "interpretations": [
+            {
+              "id": 81,
+              "category_id": 1,
+              "content": "心中思慮雖多，但計畫切勿張揚，靜待時機明朗自有貴人相助。"
+            },
+            {
+              "id": 82,
+              "category_id": 2,
+              "content": "低調籌謀，不宜洩漏機密，貴人暗助。"
+            },
+            {
+              "id": 83,
+              "category_id": 3,
+              "content": "財不露白，暗中布局終有所獲。"
+            },
+            {
+              "id": 84,
+              "category_id": 4,
+              "content": "真心相待勿受流言干擾，終得貴人促成。"
+            }
+          ],
+          "story": {
+            "id": 21,
+            "title": "朱壽昌尋母在長亭",
+            "content": ""
+          }
+        },
+        {
+          "id": 22,
+          "lot_no": 22,
+          "ganzhi": "丁未",
+          "rank": "大吉",
+          "poem_text": "太公家業八十成\n月出光輝四海明\n命內自然逢大吉\n茅屋中間百事亨",
+          "interpretations": [
+            {
+              "id": 85,
+              "category_id": 1,
+              "content": "歷經磨練終成大業，如明月照耀四海，家運興隆、百事亨通。"
+            },
+            {
+              "id": 86,
+              "category_id": 2,
+              "content": "多年耕耘終獲大成，聲名遠播。"
+            },
+            {
+              "id": 87,
+              "category_id": 3,
+              "content": "財源大開，家業興盛，大吉大利。"
+            },
+            {
+              "id": 88,
+              "category_id": 4,
+              "content": "苦盡甘來，姻緣圓滿，家道昌隆。"
+            }
+          ],
+          "story": {
+            "id": 22,
+            "title": "周文王為姜太公拖車",
+            "content": ""
+          }
+        },
+        {
+          "id": 23,
+          "lot_no": 23,
+          "ganzhi": "丁酉",
+          "rank": "中下",
+          "poem_text": "欲去長江水闊茫\n前途未遂運未通\n如今絲綸常在手\n只恐魚水不相逢",
+          "interpretations": [
+            {
+              "id": 89,
+              "category_id": 1,
+              "content": "前路茫茫、時運未通，雖有準備卻難遇知音與良機，宜耐心等待。"
+            },
+            {
+              "id": 90,
+              "category_id": 2,
+              "content": "懷才不遇，機會尚未成熟。"
+            },
+            {
+              "id": 91,
+              "category_id": 3,
+              "content": "有心無力，求財難遇良機。"
+            },
+            {
+              "id": 92,
+              "category_id": 4,
+              "content": "有緣無分或時機未到，暫難相逢。"
+            }
+          ],
+          "story": {
+            "id": 23,
+            "title": "周玉姐可遇陳春生",
+            "content": ""
+          }
+        },
+        {
+          "id": 24,
+          "lot_no": 24,
+          "ganzhi": "丁亥",
+          "rank": "上吉",
+          "poem_text": "月出光輝四海明\n前途祿位見太平\n浮雲掃退終無事\n可保禍患不臨身",
+          "interpretations": [
+            {
+              "id": 93,
+              "category_id": 1,
+              "content": "烏雲散去、明月高照，疑慮與災禍盡除，前途平順安泰。"
+            },
+            {
+              "id": 94,
+              "category_id": 2,
+              "content": "阻力消除，職位穩固，前景光明。"
+            },
+            {
+              "id": 95,
+              "category_id": 3,
+              "content": "陰霾散盡，財運回升，安穩無憂。"
+            },
+            {
+              "id": 96,
+              "category_id": 4,
+              "content": "誤會澄清，感情穩固，平安幸福。"
+            }
+          ],
+          "story": {
+            "id": 24,
+            "title": "秦叔寶救李淵全家",
+            "content": ""
+          }
+        },
+        {
+          "id": 25,
+          "lot_no": 25,
+          "ganzhi": "戊子",
+          "rank": "中下",
+          "poem_text": "總是前途莫心勞\n求神問聖枉是多\n但看雞犬日過後\n不須作福事如何",
+          "interpretations": [
+            {
+              "id": 97,
+              "category_id": 1,
+              "content": "空自勞心費力亦無益，宜放下執念，待酉戌時日過後自然見分曉。"
+            },
+            {
+              "id": 98,
+              "category_id": 2,
+              "content": "強求無益，靜待時日自然明朗。"
+            },
+            {
+              "id": 99,
+              "category_id": 3,
+              "content": "財運未到，不可盲目投資求財。"
+            },
+            {
+              "id": 100,
+              "category_id": 4,
+              "content": "強求難成，順其自然，時間會給答案。"
+            }
+          ],
+          "story": {
+            "id": 25,
+            "title": "鳳嬌觀音庵問籤中奸臣計",
+            "content": ""
+          }
+        },
+        {
+          "id": 26,
+          "lot_no": 26,
+          "ganzhi": "戊寅",
+          "rank": "大吉",
+          "poem_text": "選出牡丹第一枝\n勸君折取莫遲疑\n世間若問相知處\n萬事逢春正及時",
+          "interpretations": [
+            {
+              "id": 101,
+              "category_id": 1,
+              "content": "萬中選一之良機已現，當機立斷切莫猶豫，正逢春風得意之時。"
+            },
+            {
+              "id": 102,
+              "category_id": 2,
+              "content": "良機當前，果斷把握必獲佳績。"
+            },
+            {
+              "id": 103,
+              "category_id": 3,
+              "content": "投資好時機，果斷出手獲利可期。"
+            },
+            {
+              "id": 104,
+              "category_id": 4,
+              "content": "遇見絕佳良緣，宜主動把握勿遲疑。"
+            }
+          ],
+          "story": {
+            "id": 26,
+            "title": "范丹妻未出身",
+            "content": ""
+          }
+        },
+        {
+          "id": 27,
+          "lot_no": 27,
+          "ganzhi": "戊辰",
+          "rank": "上吉",
+          "poem_text": "君爾寬心且自由\n門庭清吉家無憂\n財寶自然終吉利\n凡事無傷不用求",
+          "interpretations": [
+            {
+              "id": 105,
+              "category_id": 1,
+              "content": "放寬心懷、自在安然，家宅平安無憂，財祿自然順遂。"
+            },
+            {
+              "id": 106,
+              "category_id": 2,
+              "content": "順其自然，無須過度操心，自有佳音。"
+            },
+            {
+              "id": 107,
+              "category_id": 3,
+              "content": "財運亨通，自然進財，無須強求。"
+            },
+            {
+              "id": 108,
+              "category_id": 4,
+              "content": "感情平順和樂，無須多慮，水到渠成。"
+            }
+          ],
+          "story": {
+            "id": 27,
+            "title": "胡完救文氏母女",
+            "content": ""
+          }
+        },
+        {
+          "id": 28,
+          "lot_no": 28,
+          "ganzhi": "戊午",
+          "rank": "下下",
+          "poem_text": "於今莫作此當時\n虎落平洋被犬欺\n世間凡事何難定\n千山萬水也遲疑",
+          "interpretations": [
+            {
+              "id": 109,
+              "category_id": 1,
+              "content": "時不我予、龍困淺灘之象，處境受制且進退兩難，宜忍辱負重。"
+            },
+            {
+              "id": 110,
+              "category_id": 2,
+              "content": "處境艱難，恐受小人欺壓，宜隱忍待時。"
+            },
+            {
+              "id": 111,
+              "category_id": 3,
+              "content": "財運低迷，防範受騙與損失。"
+            },
+            {
+              "id": 112,
+              "category_id": 4,
+              "content": "感情受挫或遭阻撓，進退維谷。"
+            }
+          ],
+          "story": {
+            "id": 28,
+            "title": "李存孝打虎",
+            "content": ""
+          }
+        },
+        {
+          "id": 29,
+          "lot_no": 29,
+          "ganzhi": "戊申",
+          "rank": "中平",
+          "poem_text": "枯木可惜逢春時\n如今還在暗中藏\n寬心且守風霜退\n還君依舊作乾坤",
+          "interpretations": [
+            {
+              "id": 113,
+              "category_id": 1,
+              "content": "生機已萌但仍處潛伏期，寬心熬過風霜寒冬，終能重振旗鼓。"
+            },
+            {
+              "id": 114,
+              "category_id": 2,
+              "content": "實力猶存，待時機成熟即可東山再起。"
+            },
+            {
+              "id": 115,
+              "category_id": 3,
+              "content": "暫時虧損或停滯，熬過低潮即回春。"
+            },
+            {
+              "id": 116,
+              "category_id": 4,
+              "content": "感情歷經冷戰或考驗，待風波平息可望重修舊好。"
+            }
+          ],
+          "story": {
+            "id": 29,
+            "title": "古城會關公斬蔡陽",
+            "content": ""
+          }
+        },
+        {
+          "id": 30,
+          "lot_no": 30,
+          "ganzhi": "戊戌",
+          "rank": "中下",
+          "poem_text": "漸漸看此月中和\n過後須防未得高\n改變顏色前途去\n凡事必定見重勞",
+          "interpretations": [
+            {
+              "id": 117,
+              "category_id": 1,
+              "content": "初期尚稱平順，但後續恐走下坡且情勢生變，凡事需多費周折。"
+            },
+            {
+              "id": 118,
+              "category_id": 2,
+              "content": "虎頭蛇尾之象，防範後期生變，宜未雨綢繆。"
+            },
+            {
+              "id": 119,
+              "category_id": 3,
+              "content": "先賺後賠之虞，見好就收為上。"
+            },
+            {
+              "id": 120,
+              "category_id": 4,
+              "content": "初期甜蜜後期易生變故，需用心經營。"
+            }
+          ],
+          "story": {
+            "id": 30,
+            "title": "豬哥過柿山",
+            "content": ""
+          }
+        },
+        {
+          "id": 31,
+          "lot_no": 31,
+          "ganzhi": "己丑",
+          "rank": "大吉",
+          "poem_text": "綠柳蒼蒼正當時\n任君此去作乾坤\n花果結實無殘謝\n福祿自有慶家門",
+          "interpretations": [
+            {
+              "id": 121,
+              "category_id": 1,
+              "content": "生機勃勃、正當盛時，大展鴻圖必能開花結果、福祿滿門。"
+            },
+            {
+              "id": 122,
+              "category_id": 2,
+              "content": "大展身手之時，事業有成，名利雙收。"
+            },
+            {
+              "id": 123,
+              "category_id": 3,
+              "content": "投資開花結果，財源廣進，家業興旺。"
+            },
+            {
+              "id": 124,
+              "category_id": 4,
+              "content": "感情開花結果，喜結良緣，子孫滿堂。"
+            }
+          ],
+          "story": {
+            "id": 31,
+            "title": "董永皇都市仙女送孩兒",
+            "content": ""
+          }
+        },
+        {
+          "id": 32,
+          "lot_no": 32,
+          "ganzhi": "己卯",
+          "rank": "下下",
+          "poem_text": "龍虎相交在門前\n此事必定兩相連\n黃金忽然變成鐵\n何用作福問神仙",
+          "interpretations": [
+            {
+              "id": 125,
+              "category_id": 1,
+              "content": "暗藏危機與爭鬥，看似美好實則變質受損，求神亦難挽回，宜謹慎防範。"
+            },
+            {
+              "id": 126,
+              "category_id": 2,
+              "content": "防範明爭暗鬥，看似好機會實為陷阱。"
+            },
+            {
+              "id": 127,
+              "category_id": 3,
+              "content": "謹防投資失利、資產縮水，切忌貪心。"
+            },
+            {
+              "id": 128,
+              "category_id": 4,
+              "content": "感情恐生變卦，看似美好實則暗藏危機。"
+            }
+          ],
+          "story": {
+            "id": 32,
+            "title": "劉備入東吳進贅",
+            "content": ""
+          }
+        },
+        {
+          "id": 33,
+          "lot_no": 33,
+          "ganzhi": "己巳",
+          "rank": "中吉",
+          "poem_text": "欲去長江水闊茫\n行舟把定未遭風\n戶內用心再作福\n看看魚水得相逢",
+          "interpretations": [
+            {
+              "id": 129,
+              "category_id": 1,
+              "content": "雖前路茫茫，但穩住方向並修善積福，終能遇見知音與良機。"
+            },
+            {
+              "id": 130,
+              "category_id": 2,
+              "content": "穩紮穩打，終得賞識與合作良機。"
+            },
+            {
+              "id": 131,
+              "category_id": 3,
+              "content": "穩健守成，修善積福，財運漸開。"
+            },
+            {
+              "id": 132,
+              "category_id": 4,
+              "content": "耐心經營，終能遇見契合伴侶，魚水相逢。"
+            }
+          ],
+          "story": {
+            "id": 33,
+            "title": "銅銀買紙靴",
+            "content": ""
+          }
+        },
+        {
+          "id": 34,
+          "lot_no": 34,
+          "ganzhi": "己未",
+          "rank": "中吉",
+          "poem_text": "危險高山行過盡\n莫嫌此路有重重\n若見蘭桂漸漸發\n長蛇反轉變成龍",
+          "interpretations": [
+            {
+              "id": 133,
+              "category_id": 1,
+              "content": "歷盡艱險終於苦盡甘來，待秋冬之際（蘭桂發時）即能飛黃騰達。"
+            },
+            {
+              "id": 134,
+              "category_id": 2,
+              "content": "熬過最艱難階段，即將轉運升遷。"
+            },
+            {
+              "id": 135,
+              "category_id": 3,
+              "content": "先難後易，後期財運大有起色。"
+            },
+            {
+              "id": 136,
+              "category_id": 4,
+              "content": "歷經重重考驗，終得正果，感情昇華。"
+            }
+          ],
+          "story": {
+            "id": 34,
+            "title": "曹操潼關遇馬超",
+            "content": ""
+          }
+        },
+        {
+          "id": 35,
+          "lot_no": 35,
+          "ganzhi": "己酉",
+          "rank": "中吉",
+          "poem_text": "此事何須用心機\n前途變怪自然知\n看看此去得和合\n漸漸脫出見太平",
+          "interpretations": [
+            {
+              "id": 137,
+              "category_id": 1,
+              "content": "無須過度算計，情勢演變自會明朗，終能化解矛盾、漸入太平。"
+            },
+            {
+              "id": 138,
+              "category_id": 2,
+              "content": "順其自然，無須鑽牛角尖，漸入佳境。"
+            },
+            {
+              "id": 139,
+              "category_id": 3,
+              "content": "不需刻意強求，財運逐步回穩。"
+            },
+            {
+              "id": 140,
+              "category_id": 4,
+              "content": "無須多疑，矛盾漸消，終歸和合。"
+            }
+          ],
+          "story": {
+            "id": 35,
+            "title": "吳漢殺妻為母救主",
+            "content": ""
+          }
+        },
+        {
+          "id": 36,
+          "lot_no": 36,
+          "ganzhi": "己亥",
+          "rank": "大吉",
+          "poem_text": "福如東海壽如山\n君爾何須嘆苦難\n命內自然逢大吉\n祈保分明得平安",
+          "interpretations": [
+            {
+              "id": 141,
+              "category_id": 1,
+              "content": "福壽雙全、大吉大利之象，無須哀嘆困境，神明保佑平安順遂。"
+            },
+            {
+              "id": 142,
+              "category_id": 2,
+              "content": "福星高照，諸事順遂，無往不利。"
+            },
+            {
+              "id": 143,
+              "category_id": 3,
+              "content": "財福雙全，衣食無憂，獲利安穩。"
+            },
+            {
+              "id": 144,
+              "category_id": 4,
+              "content": "幸福安康，白頭偕老，婚姻大吉。"
+            }
+          ],
+          "story": {
+            "id": 36,
+            "title": "薛仁貴救駕",
+            "content": ""
+          }
+        },
+        {
+          "id": 37,
+          "lot_no": 37,
+          "ganzhi": "庚子",
+          "rank": "上吉",
+          "poem_text": "運逢得意身顯變\n君爾身中皆有益\n一向前途無難事\n決意之中保清吉",
+          "interpretations": [
+            {
+              "id": 145,
+              "category_id": 1,
+              "content": "時來運轉、身分地位提升，前途無礙，堅定決心必獲吉祥。"
+            },
+            {
+              "id": 146,
+              "category_id": 2,
+              "content": "升遷轉職大吉，前途無量，果斷前行。"
+            },
+            {
+              "id": 147,
+              "category_id": 3,
+              "content": "運勢轉旺，求財順利，獲利可期。"
+            },
+            {
+              "id": 148,
+              "category_id": 4,
+              "content": "運勢得意，感情進展神速，決定婚事大吉。"
+            }
+          ],
+          "story": {
+            "id": 37,
+            "title": "正德君看綠牡丹開",
+            "content": ""
+          }
+        },
+        {
+          "id": 38,
+          "lot_no": 38,
+          "ganzhi": "庚寅",
+          "rank": "上吉",
+          "poem_text": "名顯有意在中央\n不須祈禱心自安\n看看早晚日過後\n即時得意在其間",
+          "interpretations": [
+            {
+              "id": 149,
+              "category_id": 1,
+              "content": "名聲顯揚、心安理得，無須過度祈求，不久之後即能心想事成。"
+            },
+            {
+              "id": 150,
+              "category_id": 2,
+              "content": "實力受肯定，名利雙收在即。"
+            },
+            {
+              "id": 151,
+              "category_id": 3,
+              "content": "財運亨通，不求自得，近期即見成效。"
+            },
+            {
+              "id": 152,
+              "category_id": 4,
+              "content": "心意相通，無須多慮，近期即有好消息。"
+            }
+          ],
+          "story": {
+            "id": 38,
+            "title": "劉備三顧孔明茅蘆",
+            "content": ""
+          }
+        },
+        {
+          "id": 39,
+          "lot_no": 39,
+          "ganzhi": "庚辰",
+          "rank": "中吉",
+          "poem_text": "意中若問神仙路\n勸爾且退望高樓\n寬心且守寬心坐\n必然遇得貴人扶",
+          "interpretations": [
+            {
+              "id": 153,
+              "category_id": 1,
+              "content": "目標雖高遠，但眼前宜退一步靜觀其變，寬心守成必有貴人相助。"
+            },
+            {
+              "id": 154,
+              "category_id": 2,
+              "content": "暫緩冒進，退守本分，靜待貴人提拔。"
+            },
+            {
+              "id": 155,
+              "category_id": 3,
+              "content": "不宜激進投資，守成待貴人指點。"
+            },
+            {
+              "id": 156,
+              "category_id": 4,
+              "content": "切勿急進逼迫，退一步海闊天空，自有貴人牽線。"
+            }
+          ],
+          "story": {
+            "id": 39,
+            "title": "楊文廣被困柳州城",
+            "content": ""
+          }
+        },
+        {
+          "id": 40,
+          "lot_no": 40,
+          "ganzhi": "庚午",
+          "rank": "大吉",
+          "poem_text": "平生富貴成祿位\n君家門戶定光輝\n此中必定無損失\n夫妻百歲喜相隨",
+          "interpretations": [
+            {
+              "id": 157,
+              "category_id": 1,
+              "content": "富貴榮華、光耀門楣，諸事圓滿無損，夫妻白頭偕老。"
+            },
+            {
+              "id": 158,
+              "category_id": 2,
+              "content": "功成名就，祿位高升，光宗耀祖。"
+            },
+            {
+              "id": 159,
+              "category_id": 3,
+              "content": "財富豐厚，穩賺不賠，家業昌盛。"
+            },
+            {
+              "id": 160,
+              "category_id": 4,
+              "content": "百年好合，夫妻恩愛，喜氣洋洋。"
+            }
+          ],
+          "story": {
+            "id": 40,
+            "title": "三元會葛其量夫妻相會",
+            "content": ""
+          }
+        },
+        {
+          "id": 41,
+          "lot_no": 41,
+          "ganzhi": "庚申",
+          "rank": "上吉",
+          "poem_text": "今行到手實難推\n歌歌暢飲自徘徊\n雞犬相聞消息近\n婚姻夙世結成雙",
+          "interpretations": [
+            {
+              "id": 161,
+              "category_id": 1,
+              "content": "良機到手無可推辭，歡欣順遂，酉戌時日將傳來佳音，夙世良緣成雙。"
+            },
+            {
+              "id": 162,
+              "category_id": 2,
+              "content": "機會上門，順勢接下必有所成。"
+            },
+            {
+              "id": 163,
+              "category_id": 3,
+              "content": "財利到手，喜氣洋洋，近期有好消息。"
+            },
+            {
+              "id": 164,
+              "category_id": 4,
+              "content": "前世註定良緣，婚期將近，歡喜成雙。"
+            }
+          ],
+          "story": {
+            "id": 41,
+            "title": "王小姐為色事到禍審英月",
+            "content": ""
+          }
+        },
+        {
+          "id": 42,
+          "lot_no": 42,
+          "ganzhi": "庚戌",
+          "rank": "下下",
+          "poem_text": "一重江水一重山\n誰知此去路又難\n任他改求終不過\n是非終久未得安",
+          "interpretations": [
+            {
+              "id": 165,
+              "category_id": 1,
+              "content": "關山重重、阻礙難行，即便改弦易轍亦難突破，且是非纏身難安。"
+            },
+            {
+              "id": 166,
+              "category_id": 2,
+              "content": "困難重重，轉換跑道亦難順遂，宜靜守。"
+            },
+            {
+              "id": 167,
+              "category_id": 3,
+              "content": "求財艱難，謹防是非與官非損財。"
+            },
+            {
+              "id": 168,
+              "category_id": 4,
+              "content": "阻礙重重，口舌是非多，難以圓滿。"
+            }
+          ],
+          "story": {
+            "id": 42,
+            "title": "姜女送寒衣哭倒萬里長城",
+            "content": ""
+          }
+        },
+        {
+          "id": 43,
+          "lot_no": 43,
+          "ganzhi": "辛丑",
+          "rank": "中吉",
+          "poem_text": "一年作事急如飛\n君爾寬心莫遲疑\n貴人還在千里外\n音信月中漸漸知",
+          "interpretations": [
+            {
+              "id": 169,
+              "category_id": 1,
+              "content": "一年光陰飛逝，無須遲疑焦慮，遠方貴人將至，月中漸有佳音。"
+            },
+            {
+              "id": 170,
+              "category_id": 2,
+              "content": "莫急莫慌，遠方有機會或貴人傳來消息。"
+            },
+            {
+              "id": 171,
+              "category_id": 3,
+              "content": "財運在遠方或需待月中方見明朗。"
+            },
+            {
+              "id": 172,
+              "category_id": 4,
+              "content": "遠方良緣或異地戀情，月中漸有音信。"
+            }
+          ],
+          "story": {
+            "id": 43,
+            "title": "偶才母子井邊相會",
+            "content": ""
+          }
+        },
+        {
+          "id": 44,
+          "lot_no": 44,
+          "ganzhi": "辛卯",
+          "rank": "中吉",
+          "poem_text": "客到前途多得利\n君爾何故兩相疑\n雖是中間逢進退\n月出光輝得運時",
+          "interpretations": [
+            {
+              "id": 173,
+              "category_id": 1,
+              "content": "前行有利無須猜疑，過程中雖略有進退反覆，但終將雲開見月、得運成功。"
+            },
+            {
+              "id": 174,
+              "category_id": 2,
+              "content": "過程略有波折，堅定信心終獲成功。"
+            },
+            {
+              "id": 175,
+              "category_id": 3,
+              "content": "中間雖有起伏，最終仍能獲利。"
+            },
+            {
+              "id": 176,
+              "category_id": 4,
+              "content": "莫因猜疑而猶豫，歷經波折後終成眷屬。"
+            }
+          ],
+          "story": {
+            "id": 44,
+            "title": "洪益春留傘愛陳三",
+            "content": ""
+          }
+        },
+        {
+          "id": 45,
+          "lot_no": 45,
+          "ganzhi": "辛巳",
+          "rank": "上吉",
+          "poem_text": "花開今已結成果\n富貴榮華終到老\n君子小人相會合\n萬事清吉莫煩惱",
+          "interpretations": [
+            {
+              "id": 177,
+              "category_id": 1,
+              "content": "開花結果、富貴長久之象，人際和諧無礙，萬事順吉無須煩惱。"
+            },
+            {
+              "id": 178,
+              "category_id": 2,
+              "content": "努力開花結果，職場人際圓融，前途光明。"
+            },
+            {
+              "id": 179,
+              "category_id": 3,
+              "content": "投資獲利了結，財富穩固長久。"
+            },
+            {
+              "id": 180,
+              "category_id": 4,
+              "content": "感情修成正果，相伴到老，無須煩憂。"
+            }
+          ],
+          "story": {
+            "id": 45,
+            "title": "薛仁貴遇王茂生進酒",
+            "content": ""
+          }
+        },
+        {
+          "id": 46,
+          "lot_no": 46,
+          "ganzhi": "辛未",
+          "rank": "大吉",
+          "poem_text": "功名得意與君顯\n前途富貴喜安然\n若遇一輪明月照\n十五團圓照滿天",
+          "interpretations": [
+            {
+              "id": 181,
+              "category_id": 1,
+              "content": "功成名就、富貴安然，如十五滿月般圓滿無缺。"
+            },
+            {
+              "id": 182,
+              "category_id": 2,
+              "content": "金榜題名，仕途得意，大放異彩。"
+            },
+            {
+              "id": 183,
+              "category_id": 3,
+              "content": "財運極佳，豐收圓滿，喜氣洋洋。"
+            },
+            {
+              "id": 184,
+              "category_id": 4,
+              "content": "花好月圓，感情圓滿，喜結連理。"
+            }
+          ],
+          "story": {
+            "id": 46,
+            "title": "江中立遇永祿君",
+            "content": ""
+          }
+        },
+        {
+          "id": 47,
+          "lot_no": 47,
+          "ganzhi": "辛酉",
+          "rank": "中吉",
+          "poem_text": "君爾何須問聖跡\n自己心中皆有益\n于今且看月中旬\n凶事脫出化成吉",
+          "interpretations": [
+            {
+              "id": 185,
+              "category_id": 1,
+              "content": "無須四處求問，依循本心行事即有益處，待月中旬便能逢凶化吉。"
+            },
+            {
+              "id": 186,
+              "category_id": 2,
+              "content": "相信自己判斷，月中旬後運勢轉旺。"
+            },
+            {
+              "id": 187,
+              "category_id": 3,
+              "content": "月中之後轉虧為盈，逢凶化吉。"
+            },
+            {
+              "id": 188,
+              "category_id": 4,
+              "content": "跟隨內心選擇，月中旬後誤會化解、轉趨和美。"
+            }
+          ],
+          "story": {
+            "id": 47,
+            "title": "劉永作官蔭妻兒",
+            "content": ""
+          }
+        },
+        {
+          "id": 48,
+          "lot_no": 48,
+          "ganzhi": "辛亥",
+          "rank": "下下",
+          "poem_text": "陽世作事未和同\n雲遮月色正朦朧\n心中意欲前途去\n只恐命內運未通",
+          "interpretations": [
+            {
+              "id": 189,
+              "category_id": 1,
+              "content": "時運未通、前途迷茫如雲遮月，有心作為卻受制於環境，切忌盲目衝動。"
+            },
+            {
+              "id": 190,
+              "category_id": 2,
+              "content": "時機未到，方向不明，宜按兵不動。"
+            },
+            {
+              "id": 191,
+              "category_id": 3,
+              "content": "局勢不明，謹防誤入陷阱而破財。"
+            },
+            {
+              "id": 192,
+              "category_id": 4,
+              "content": "前景朦朧，雙方理念未合，不宜貿然推進。"
+            }
+          ],
+          "story": {
+            "id": 48,
+            "title": "蜻蜓誤入蜘蛛網",
+            "content": ""
+          }
+        },
+        {
+          "id": 49,
+          "lot_no": 49,
+          "ganzhi": "壬子",
+          "rank": "中平",
+          "poem_text": "言語雖多不可從\n風雲靜處未行龍\n暗中終得明消息\n君爾何須問重重",
+          "interpretations": [
+            {
+              "id": 193,
+              "category_id": 1,
+              "content": "外界流言紛雜切勿輕信，目前尚處潛伏期，暗中自會得知真相。"
+            },
+            {
+              "id": 194,
+              "category_id": 2,
+              "content": "莫聽信小道消息，靜待時機成熟。"
+            },
+            {
+              "id": 195,
+              "category_id": 3,
+              "content": "切勿聽信明牌謠言，暗中觀察方得真機。"
+            },
+            {
+              "id": 196,
+              "category_id": 4,
+              "content": "勿受旁人閒言碎語影響，真相自會水落石出。"
+            }
+          ],
+          "story": {
+            "id": 49,
+            "title": "佛印稍婆答歌詩",
+            "content": ""
+          }
+        },
+        {
+          "id": 50,
+          "lot_no": 50,
+          "ganzhi": "壬寅",
+          "rank": "中吉",
+          "poem_text": "佛前發誓無異心\n且看前途得好音\n此物原來本是鐵\n也能變化得成金",
+          "interpretations": [
+            {
+              "id": 197,
+              "category_id": 1,
+              "content": "心存正念、誠心不改，終能點鐵成金、迎來好消息。"
+            },
+            {
+              "id": 198,
+              "category_id": 2,
+              "content": "堅持初衷，化腐朽為神奇，終獲佳績。"
+            },
+            {
+              "id": 199,
+              "category_id": 3,
+              "content": "看似無利可圖之事，堅持經營終能獲利。"
+            },
+            {
+              "id": 200,
+              "category_id": 4,
+              "content": "真心不變，終能感動對方，修成正果。"
+            }
+          ],
+          "story": {
+            "id": 50,
+            "title": "小兒路遇惡鬼",
+            "content": ""
+          }
+        },
+        {
+          "id": 51,
+          "lot_no": 51,
+          "ganzhi": "壬辰",
+          "rank": "中吉",
+          "poem_text": "東西南北不堪行\n前途此事正可當\n勸君把定莫煩惱\n家門自有保安康",
+          "interpretations": [
+            {
+              "id": 201,
+              "category_id": 1,
+              "content": "四處奔波不如專注眼前正事，堅定立場勿煩惱，家宅自然安康。"
+            },
+            {
+              "id": 202,
+              "category_id": 2,
+              "content": "專注本業勿三心二意，堅守崗位即吉。"
+            },
+            {
+              "id": 203,
+              "category_id": 3,
+              "content": "守成專注可獲利，切忌盲目跨界投資。"
+            },
+            {
+              "id": 204,
+              "category_id": 4,
+              "content": "專一堅定勿動搖，感情穩定，家門安康。"
+            }
+          ],
+          "story": {
+            "id": 51,
+            "title": "趙玄郎河東大戰龍虎關",
+            "content": ""
+          }
+        },
+        {
+          "id": 52,
+          "lot_no": 52,
+          "ganzhi": "壬午",
+          "rank": "上吉",
+          "poem_text": "功名事業本由天\n不須掛念意懸懸\n若問中間遲與速\n風雲際會在眼前",
+          "interpretations": [
+            {
+              "id": 205,
+              "category_id": 1,
+              "content": "功名事業自有天定，無須過度懸心，時機已近在眼前、蓄勢待發。"
+            },
+            {
+              "id": 206,
+              "category_id": 2,
+              "content": "機會就在眼前，無須焦慮，順勢而為即成。"
+            },
+            {
+              "id": 207,
+              "category_id": 3,
+              "content": "財運將至，把握眼前良機即可獲利。"
+            },
+            {
+              "id": 208,
+              "category_id": 4,
+              "content": "良緣近在眼前，無須掛念，水到渠成。"
+            }
+          ],
+          "story": {
+            "id": 52,
+            "title": "薛仁貴回家遇丁山",
+            "content": ""
+          }
+        },
+        {
+          "id": 53,
+          "lot_no": 53,
+          "ganzhi": "壬申",
+          "rank": "大吉",
+          "poem_text": "看君來問心中事\n積善之家慶有餘\n運亨財子雙雙至\n指日喜氣溢門閭",
+          "interpretations": [
+            {
+              "id": 209,
+              "category_id": 1,
+              "content": "積善之家必有餘慶，運勢亨通、財子雙美，喜事臨門指日可待。"
+            },
+            {
+              "id": 210,
+              "category_id": 2,
+              "content": "鴻運當頭，名利雙收，喜訊頻傳。"
+            },
+            {
+              "id": 211,
+              "category_id": 3,
+              "content": "財運大旺，正偏財皆順，家業興隆。"
+            },
+            {
+              "id": 212,
+              "category_id": 4,
+              "content": "喜氣洋洋，姻緣美滿，早生貴子之兆。"
+            }
+          ],
+          "story": {
+            "id": 53,
+            "title": "蘇秦夫妻相會",
+            "content": ""
+          }
+        },
+        {
+          "id": 54,
+          "lot_no": 54,
+          "ganzhi": "壬戌",
+          "rank": "上吉",
+          "poem_text": "孤燈寂寂夜沉沉\n萬事清吉萬事成\n若逢陰中有善果\n燒得好香達神明",
+          "interpretations": [
+            {
+              "id": 213,
+              "category_id": 1,
+              "content": "雖歷經孤寂沉潛，但平日行善積德終獲神明庇佑，萬事清吉可成。"
+            },
+            {
+              "id": 214,
+              "category_id": 2,
+              "content": "默默耕耘終獲回報，貴人暗助可成。"
+            },
+            {
+              "id": 215,
+              "category_id": 3,
+              "content": "財運平穩順遂，積善得福。"
+            },
+            {
+              "id": 216,
+              "category_id": 4,
+              "content": "熬過孤單終遇良緣，誠心祈求必有回響。"
+            }
+          ],
+          "story": {
+            "id": 54,
+            "title": "念月英相國寺",
+            "content": ""
+          }
+        },
+        {
+          "id": 55,
+          "lot_no": 55,
+          "ganzhi": "癸丑",
+          "rank": "下下",
+          "poem_text": "須知進退總虛言\n看看發暗未必全\n珠玉深藏還未變\n心中但得枉徒然",
+          "interpretations": [
+            {
+              "id": 217,
+              "category_id": 1,
+              "content": "進退皆無實益、前景轉暗，雖有才華卻難施展，強求只是徒勞。"
+            },
+            {
+              "id": 218,
+              "category_id": 2,
+              "content": "懷才不遇，時運未至，切勿強求。"
+            },
+            {
+              "id": 219,
+              "category_id": 3,
+              "content": "投資無功，謹防虛花與損失。"
+            },
+            {
+              "id": 220,
+              "category_id": 4,
+              "content": "情路坎坷，有緣無分，強求徒增煩惱。"
+            }
+          ],
+          "story": {
+            "id": 55,
+            "title": "郭華醉酒誤佳期",
+            "content": ""
+          }
+        },
+        {
+          "id": 56,
+          "lot_no": 56,
+          "ganzhi": "癸卯",
+          "rank": "下下",
+          "poem_text": "病中若得苦心勞\n到底完全總未遭\n去後不須回頭問\n心中事務盡消磨",
+          "interpretations": [
+            {
+              "id": 221,
+              "category_id": 1,
+              "content": "費盡苦心仍難如願，既已過去便無須回頭眷戀，放下執念方得解脫。"
+            },
+            {
+              "id": 222,
+              "category_id": 2,
+              "content": "事與願違，宜及早放下、另作打算。"
+            },
+            {
+              "id": 223,
+              "category_id": 3,
+              "content": "虧損難挽，切勿再投入資金，認賠為宜。"
+            },
+            {
+              "id": 224,
+              "category_id": 4,
+              "content": "緣分已盡，回頭無益，放下方能重新開始。"
+            }
+          ],
+          "story": {
+            "id": 56,
+            "title": "楊六郎相戰",
+            "content": ""
+          }
+        },
+        {
+          "id": 57,
+          "lot_no": 57,
+          "ganzhi": "癸巳",
+          "rank": "上吉",
+          "poem_text": "勸君把定心莫虛\n前途清吉得運時\n到底中間無大事\n又遇神仙守安居",
+          "interpretations": [
+            {
+              "id": 225,
+              "category_id": 1,
+              "content": "定下心神勿疑慮，前途清吉且正逢好運，有驚無險並得神明護佑。"
+            },
+            {
+              "id": 226,
+              "category_id": 2,
+              "content": "穩住陣腳，逢凶化吉，事業順遂。"
+            },
+            {
+              "id": 227,
+              "category_id": 3,
+              "content": "財運平穩向好，無大風險，安心經營。"
+            },
+            {
+              "id": 228,
+              "category_id": 4,
+              "content": "雖有小波折但無大礙，神明庇佑，終成眷屬。"
+            }
+          ],
+          "story": {
+            "id": 57,
+            "title": "白蛇精遇許漢文",
+            "content": ""
+          }
+        },
+        {
+          "id": 58,
+          "lot_no": 58,
+          "ganzhi": "癸未",
+          "rank": "下下",
+          "poem_text": "蛇身意欲變成龍\n只恐命內運未通\n久病且作寬心坐\n言語雖多不可從",
+          "interpretations": [
+            {
+              "id": 229,
+              "category_id": 1,
+              "content": "欲求突破卻時運未通，宜寬心靜養、勿輕信外界紛雜建言。"
+            },
+            {
+              "id": 230,
+              "category_id": 2,
+              "content": "時機未成熟，切勿好高騖遠或輕信他人。"
+            },
+            {
+              "id": 231,
+              "category_id": 3,
+              "content": "財運未通，忌聽信謠言盲目投資。"
+            },
+            {
+              "id": 232,
+              "category_id": 4,
+              "content": "感情進展受阻，宜靜心等待，勿受他人挑撥。"
+            }
+          ],
+          "story": {
+            "id": 58,
+            "title": "白蛇精遇許漢文",
+            "content": ""
+          }
+        },
+        {
+          "id": 59,
+          "lot_no": 59,
+          "ganzhi": "癸酉",
+          "rank": "上吉",
+          "poem_text": "有心作福莫遲疑\n求名清吉正當時\n此事必能成會合\n財寶自然喜相隨",
+          "interpretations": [
+            {
+              "id": 233,
+              "category_id": 1,
+              "content": "有心向善作為切莫猶豫，求名求利正逢良機，諸事順成、財寶相隨。"
+            },
+            {
+              "id": 234,
+              "category_id": 2,
+              "content": "把握當下良機，名利雙收，無往不利。"
+            },
+            {
+              "id": 235,
+              "category_id": 3,
+              "content": "財運亨通，主動把握可獲豐厚財利。"
+            },
+            {
+              "id": 236,
+              "category_id": 4,
+              "content": "主動追求莫遲疑，良緣可成，幸福相隨。"
+            }
+          ],
+          "story": {
+            "id": 59,
+            "title": "皇都市上有神仙",
+            "content": ""
+          }
+        },
+        {
+          "id": 60,
+          "lot_no": 60,
+          "ganzhi": "癸亥",
+          "rank": "中平",
+          "poem_text": "月出光輝本清吉\n浮雲總是蔽陰色\n戶內用心再作福\n當官分明便有益",
+          "interpretations": [
+            {
+              "id": 237,
+              "category_id": 1,
+              "content": "本質雖吉但受浮雲遮蔽、暗藏波折，宜修身積福並依法合規行事。"
+            },
+            {
+              "id": 238,
+              "category_id": 2,
+              "content": "防範小人蒙蔽，謹守法規本分則無礙。"
+            },
+            {
+              "id": 239,
+              "category_id": 3,
+              "content": "財運受阻於外在干擾，守法正道方能獲益。"
+            },
+            {
+              "id": 240,
+              "category_id": 4,
+              "content": "感情受外力干擾蒙上陰影，需用心經營化解。"
+            }
+          ],
+          "story": {
+            "id": 60,
+            "title": "薛剛踢死太子驚崩聖駕",
+            "content": ""
+          }
+        }
+      ]
+    }
+  ]
+}
